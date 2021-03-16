@@ -1,2 +1,2 @@
-# Oleh7987
+# react-test-task
 Created with CodeSandbox
